@@ -1,0 +1,8 @@
+{
+  "name": "CCloud Web",
+  "short_name": "CCloud",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "description": "CCloud Web - frontend demo"
+}
